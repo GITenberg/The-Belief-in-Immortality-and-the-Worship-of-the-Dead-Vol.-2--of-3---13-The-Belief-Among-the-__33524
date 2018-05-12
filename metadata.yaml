@@ -1,0 +1,36 @@
+_repo: The-Belief-in-Immortality-and-the-Worship-of-the-Dead-Vol.-2--of-3---13-The-Belief-Among-the-__33524
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Frazer, James George
+    aliases:
+    - Frazer, J. G. (James George)
+    - Frazer, Sir James George
+    birthdate: 1854
+    deathdate: 1941
+    gutenberg_agent_id: '1241'
+    url: http://www.gutenberg.org/2009/agents/1241
+    wikipedia: http://en.wikipedia.org/wiki/James_Frazer
+description: ''
+gutenberg_issued: '2010-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33524'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ancestor worship -- Oceania'
+- !lcsh 'Oceania -- Religion'
+- !lcsh 'Oceania -- Social life and customs.'
+- !lcsh 'Burial'
+- !lcc 'BL'
+- !lcsh 'Funeral rites and ceremonies -- Oceania'
+- !lcsh 'Immortality -- Comparative studies'
+title: "The Belief in Immortality and the Worship of the Dead, Volume 2 (of 3)\r\n\
+  The Belief Among the Polynesians"
+url: http://www.gutenberg.org/ebooks/33524
